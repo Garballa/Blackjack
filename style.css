@@ -5,6 +5,7 @@ body {
   text-align: center;
   color: white;
   font-size: xx-large;
+  font-weight: bold;
 }
 
 h1 {
@@ -12,4 +13,5 @@ h1 {
 }
 
 #message-el {
+  font-style: italic;
 }
