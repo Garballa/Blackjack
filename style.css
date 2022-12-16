@@ -1,0 +1,15 @@
+body {
+  font-family: "Diplomata SC", cursive;
+  background-image: url("Blackjack-table.png");
+  background-size: cover;
+  text-align: center;
+  color: white;
+  font-size: xx-large;
+}
+
+h1 {
+  color: goldenrod;
+}
+
+#message-el {
+}
